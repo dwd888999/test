@@ -7,6 +7,8 @@ Output: True
 
 Input: flowerbed = [1,0,0,0,1], n = 2
 Output: False
+
+
 '''
 
 
